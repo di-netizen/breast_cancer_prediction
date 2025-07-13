@@ -64,3 +64,8 @@ python cancer_step5_evaluate_save.py
 
 # Step 4: Predict a new case
 python cancer_step6_predict.py
+
+## 🔒 License
+
+This project is licensed under the MIT License © 2025 Divya Pawar.
+
